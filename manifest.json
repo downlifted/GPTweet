@@ -1,8 +1,8 @@
 {
-  "name": "TweetGPT",
+  "name": "GPTweet",
   "manifest_version": 3,
-  "version": "2.0.4",
-  "description": "Write Intelligent, AI Tweets using chatGPT",
+  "version": "2.5",
+  "description": "Semi-Automated - Write AI Tweets using chatGPT, without leaving the page.",
   "permissions": ["storage", "scripting", "notifications", "tabs"],
   "host_permissions": ["https://x.com/", "https://chat.openai.com/"],
   "externally_connectable": {
